@@ -1,6 +1,6 @@
 SELECT_ITEMS = """
 SELECT id, waywire_id, url, source 
-FROM   item_item ORDER BY view_count ASC LIMIT 2000;
+FROM   item_item;
 """
 
 
