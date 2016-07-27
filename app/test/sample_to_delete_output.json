@@ -1,0 +1,121 @@
+{ 
+    "link": [
+        {
+           "rel": "self",
+           "href": "http://brandish.waywire.com/api/content/show?id=X894YQ08JZ89HS2Q&key="
+        },
+        {
+           "rel": "alternate",
+           "href": "http://brandish.waywire.com/video/Coppley-Spring-2010-Video"
+        },
+        {
+           "rel": "author",
+           "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+        }
+    ],
+    "content": {
+       "content": "Coppley Apparel Group is a marketer of men's suits, coats, trousers, shirts and neckwear with a Canadian manufacturing base that excels in product and services benefits selling principally in North America and mainly through independent specialty stores."
+    },
+    "author": {
+       "name": {
+          "content": "Sasha"
+       },
+       "magnify:id": {
+          "content": "SZWW1P16W7NWPBZT"
+       },
+       "uri": {
+          "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+       }
+    },
+    "media:thumbnail": {
+       "url": "http://s3.amazonaws.com/magnifythumbs/GSN8SF360C6SY04P.jpg"
+    },
+    "published": {
+       "content": "2010-02-10T21:31:24Z"
+    },
+    "magnify:externalid": {
+       "content": "FPoxNAxLIY8"
+    },
+    "category": [
+       {
+          "label": "Men's_Apparels",
+          "term": "Men's_Apparels"
+       },
+       {
+          "label": "Men's_Apparel",
+          "term": "Men's_Apparel"
+       },
+       {
+          "label": "language.english",
+          "term": "language.english"
+       },
+       {
+          "label": "Men's_Apparel-Formal",
+          "term": "Men's_Apparel-Formal"
+       },
+       {
+          "label": "country.usa",
+          "term": "country.usa"
+       },
+       {
+          "label": "People",
+          "term": "People"
+       },
+       {
+          "label": "brand.Canali",
+          "term": "brand.Canali"
+       },
+       {   "label": "adult.adult",
+           "term": "adult.adult"
+       },
+       {
+           "label": "brandish.select",
+           "term": "brandish.select"
+       },
+       {
+           "label": "brandish.feed",
+           "term": "brandish.feed"
+       },
+       {
+           "label": "brandish.delete", 
+           "term": "brandish.delete"
+       }
+    ],
+    "media:content": {
+       "width": 300,
+       "medium": "video",
+       "url": "http://brandish.waywire.com/embed/content/X894YQ08JZ89HS2Q",
+       "duration": "377",
+       "type": "text/html",
+       "height": 360
+    },
+    "magnify:id": {
+       "content": "X894YQ08JZ89HS2Q"
+    },
+    "id": {
+       "content": "http://brandish.waywire.com/api/content/show?id=X894YQ08JZ89HS2Q&key="
+    },
+    "title": {
+       "content": "Coppley Spring 2010 Video"
+    },
+    "media:geo_location": {
+       "country": null,
+       "city": null,
+       "longitude": null,
+       "postal_code": null,
+       "latitude": null,
+       "province": null,
+       "description": null
+    },
+    "updated": {
+       "content": "2015-11-06T08:08:47Z"
+    },
+    "media:html5": {
+       "width": 300,
+       "medium": "video",
+       "url": "//waywire.com/apiv2/player?id=X894YQ08JZ89HS2Q&hostname=brandish.waywire.com&permalink=Coppley-Spring-2010-Video",
+       "duration": "377",
+       "type": "text/html",
+       "height": 360
+    }
+}

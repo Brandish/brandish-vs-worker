@@ -1,0 +1,12 @@
+{
+    "entry": [
+        {"updated": {"content": "2015-10-21T08:59:05Z"}, "media:thumbnail": {"url": "http://s3.amazonaws.com/magnifythumbs/6BFWF61WH8VPLZJQ.jpg"}, "author": {"uri": null, "magnify:id": null, "name": {"content": "Anonymous"}}, "id": {"content": "http://brandish.waywire.com/api/content/show?id=1HG7VV1N1VN1BQG9&key="}, "link": [{"href": "http://brandish.waywire.com/api/content/show?id=1HG7VV1N1VN1BQG9&key=", "rel": "self"}, {"href": "http://brandish.waywire.com/video/Impact", "rel": "alternate"}], "magnify:externalid": {"content": "5A8QSUYxGVA"}, "media:geo_location": {"city": null, "latitude": null, "province": null, "longitude": null, "description": null, "postal_code": null, "country": null}, "content": {"content": "The Audi A3 has finally brought true luxury within reach. But perhaps even more life???changing is how well the A3 rated in the NHSTA and IIHS crash tests."}, "media:html5": {"height": 360, "duration": "27", "url": "//waywire.com/apiv2/player?id=1HG7VV1N1VN1BQG9&hostname=brandish.waywire.com&permalink=Impact", "medium": "video", "type": "text/html", "width": 300}, "category": [{"label": "temp", "term": "temp"}, {"label": "Audi", "term": "Audi"}, {"label": "AudiofAmerica", "term": "AudiofAmerica"}, {"label": "Sports", "term": "Sports"}], "magnify:id": {"content": "1HG7VV1N1VN1BQG9"}, "title": {"content": "Impact"}, "published": {"content": "2015-03-04T19:27:15Z"}, "media:content": {"height": 360, "duration": "27", "url": "http://brandish.waywire.com/embed/content/1HG7VV1N1VN1BQG9", "medium": "video", "type": "text/html", "width": 300}}
+    ],
+   "opensearch:itemsPerPage": {
+      "content": 1
+   },
+   "opensearch:totalResults": {
+      "content": 1
+    }
+}
+

@@ -1,0 +1,208 @@
+{
+    "rights": {
+        "content": "Copyright 2016, Waywire Networks"
+    },
+    "xmlns": "http://www.w3.org/2005/Atom",
+    "entry": [
+        {
+            "link": [
+                {
+                    "rel": "self",
+                    "href": "http://brandish.waywire.com/api/content/show?id=T0LKMF341NSC2LBC&key="
+                },
+                {
+                    "rel": "alternate",
+                    "href": "http://brandish.waywire.com/video/KC-HOU-Gomez-attempts-to-fix-a"
+                },
+                {
+                    "rel": "author",
+                    "href": "http://brandish.waywire.com/api/user/show?id=LYXDCK280HFM3VNL&key="
+                }
+            ],
+            "content": {
+                "content": "Carlos Gomez won't get any calls to join the grounds crew anytime soon, if the methods he chooses to fix this wall are any indication\r\n\r\nSports, Major, League, Top, Clips, Baseball, Carlos, Gomez, MLB, Houston, Astros, djm, professional_sports, professional_sports, Professional_Sports-MLB, brand.MLB, MLB, Baseball, language.english, country.usa"
+            },
+            "author": {
+                "name": {
+                    "content": "Daniel Morris"
+                },
+                "magnify:id": {
+                    "content": "LYXDCK280HFM3VNL"
+                },
+                "uri": {
+                    "content": "http://brandish.waywire.com/api/user/show?id=LYXDCK280HFM3VNL&key="
+                }
+            },
+            "media:thumbnail": {
+                "url": "https://s3.amazonaws.com/item.thumbnail/content/T0LKMF341NSC2LBC/regular.jpg"
+            },
+            "published": {
+                "content": "2016-04-13T03:35:41Z"
+            },
+            "magnify:externalid": {
+                "content": "B0zKfQ8FNFI"
+            },
+            "media:content": {
+                "width": 300,
+                "medium": "video",
+                "url": "http://brandish.waywire.com/embed/content/T0LKMF341NSC2LBC",
+                "type": "text/html",
+                "duration": "36",
+                "height": 360
+            },
+            "category": [
+                {
+                    "label": "professional_sports",
+                    "term": "professional_sports"
+                },
+                {
+                    "label": "language.english",
+                    "term": "language.english"
+                },
+                {
+                    "label": "Professional_Sports-MLB",
+                    "term": "Professional_Sports-MLB"
+                },
+                {
+                    "label": "country.usa",
+                    "term": "country.usa"
+                },
+                {
+                    "label": "Baseball",
+                    "term": "Baseball"
+                },
+                {
+                    "label": "MLB",
+                    "term": "MLB"
+                },
+                {
+                    "label": "brandish.feed",
+                    "term": "brandish.feed"
+                },
+                {
+                    "label": "brandish.select",
+                    "term": "brandish.select"
+                },
+                {
+                    "label": "adult.adult",
+                    "term": "adult.adult"
+                },
+                {
+                    "label": "brand.MLB",
+                    "term": "brand.MLB"
+                },
+                {
+                    "label": "djm",
+                    "term": "djm"
+                },
+                {
+                    "label": "Sports",
+                    "term": "Sports"
+                },
+                {
+                    "label": "Top",
+                    "term": "Top"
+                },
+                {
+                    "label": "Carlos",
+                    "term": "Carlos"
+                },
+                {
+                    "label": "Houston",
+                    "term": "Houston"
+                },
+                {
+                    "label": "Major",
+                    "term": "Major"
+                },
+                {
+                    "label": "Clips",
+                    "term": "Clips"
+                },
+                {
+                    "label": "Gomez",
+                    "term": "Gomez"
+                },
+                {
+                    "label": "Astros",
+                    "term": "Astros"
+                },
+                {
+                    "label": "League",
+                    "term": "League"
+                }
+            ],
+            "magnify:id": {
+                "content": "T0LKMF341NSC2LBC"
+            },
+            "id": {
+                "content": "http://brandish.waywire.com/api/content/show?id=T0LKMF341NSC2LBC&key="
+            },
+            "title": {
+                "content": "Gomez Kicks Crumbling Outfield Wall - 4/12"
+            },
+            "media:geo_location": {
+                "country": null,
+                "city": null,
+                "longitude": null,
+                "postal_code": null,
+                "latitude": null,
+                "province": null,
+                "description": null
+            },
+            "updated": {
+                "content": "2016-04-13T14:32:00Z"
+            },
+            "media:html5": {
+                "width": 300,
+                "medium": "video",
+                "url": "https://player.waywire.com/?id=T0LKMF341NSC2LBC",
+                "type": "text/html",
+                "duration": "36",
+                "height": 360
+            }
+        }
+    ],
+    "opensearch:Query": null,
+    "author": null,
+    "generator": {
+        "version": "beta",
+        "content": "Magnify.net API",
+        "uri": "http://www.magnify.net/api/"
+    },
+    "updated": {
+        "content": "2016-04-13T15:14:11Z"
+    },
+    "xmlns:magnify": "http://www.magnify.net/developers/api/ns",
+    "id": {
+        "content": "http://brandish.waywire.com/api/content/browse?per_page=10&page=1&sort=recent&key=&format=json"
+    },
+    "xmlns:opensearch": "http://a9.com/-/spec/opensearch/1.1/",
+    "link": [
+        {
+            "rel": "self",
+            "href": "http://brandish.waywire.com/api/content/browse?per_page=10&page=1&sort=recent&key=&format=json",
+            "type": "application/atom+xml"
+        },
+        {
+            "rel": "next",
+            "href": "http://brandish.waywire.com/api/content/browse?per_page=10&page=2&sort=recent&key=&format=json&start=11",
+            "type": "application/atom+xml"
+        }
+    ],
+    "media:thumbnail": null,
+    "opensearch:startIndex": {
+        "content": 1
+    },
+    "published": null,
+    "opensearch:itemsPerPage": {
+        "content": "10"
+    },
+    "opensearch:totalResults": {
+        "content": 18376
+    },
+    "title": {
+        "content": "Search for Videos at Brandish"
+    },
+    "xmlns:media": "http://search.yahoo.com/mrss/"
+}

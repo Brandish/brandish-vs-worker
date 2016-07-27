@@ -1,0 +1,200 @@
+{
+    "entry": [
+  {
+    "link": [
+      {
+        "rel": "self",
+        "href": "http://brandish.waywire.com/api/content/show?id=XBWSQW212GDCMMHM&key="
+      },
+      {
+        "rel": "alternate",
+        "href": "http://brandish.waywire.com/video/New-Hill-s-Ideal-Balance-Dog-Fo"
+      },
+      {
+        "rel": "author",
+        "href": "http://brandish.waywire.com/api/user/show?id=6P2W6T2ZHBH590Y9&key="
+      }
+    ],
+    "content": {
+      "content": "Next time on Dragon Ball Z. HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!"
+    },
+    "author": {
+      "name": {
+        "content": "Jessie B"
+      },
+      "magnify:id": {
+        "content": "6P2W6T2ZHBH590Y9"
+      },
+      "uri": {
+        "content": "http://brandish.waywire.com/api/user/show?id=6P2W6T2ZHBH590Y9&key="
+      }
+    },
+    "media:thumbnail": {
+      "url": "https://s3.amazonaws.com/item.thumbnail/content/XBWSQW212GDCMMHM/regular.jpg"
+    },
+    "published": {
+      "content": "2013-04-03T19:15:27Z"
+    },
+    "magnify:externalid": {
+      "content": "JgzPi7GJo2g"
+    },
+    "media:content": {
+      "width": 300,
+      "medium": "video",
+      "url": "http://brandish.waywire.com/embed/content/XBWSQW212GDCMMHM",
+      "type": "text/html",
+      "duration": "78",
+      "height": 360
+    },
+    "category": [
+      {
+        "label": "Men's_Apparel-Formal",
+        "term": "Men's_Apparel-Formal"
+      },
+      {
+        "label": "country.usa",
+        "term": "country.usa"
+      },
+      {
+        "label": "brand.Goku_Brand_Training_Gi",
+        "term": "brand.Goku_Brand_Training_Gi"
+      },
+      {
+        "label": "better_home",
+        "term": "better_home"
+      },
+      {
+        "label": "language.english",
+        "term": "language.english"
+      }
+    ],
+    "magnify:id": {
+      "content": "XBWSQW212GDCMMHM"
+    },
+    "id": {
+      "content": "http://brandish.waywire.com/api/content/show?id=XBWSQW212GDCMMHM&key="
+    },
+    "title": {
+      "content": "New Ideal Balance Dog Food: Natural Ingredients, Perfectly Balanced"
+    },
+    "media:geo_location": {
+      "country": null,
+      "city": null,
+      "longitude": null,
+      "postal_code": null,
+      "latitude": null,
+      "province": null,
+      "description": null
+    },
+    "updated": {
+      "content": "2016-04-15T13:21:00Z"
+    },
+    "media:html5": {
+      "width": 300,
+      "medium": "video",
+      "url": "https://player.waywire.com/?id=XBWSQW212GDCMMHM",
+      "type": "text/html",
+      "duration": "78",
+      "height": 360
+    }
+},
+{
+  "link": [
+    {
+      "rel": "self",
+      "href": "http://brandish.waywire.com/api/content/show?id=XBWSQW212GDCMMHM&key="
+    },
+    {
+      "rel": "alternate",
+      "href": "http://brandish.waywire.com/video/New-Hill-s-Ideal-Balance-Dog-Fo"
+    },
+    {
+      "rel": "author",
+      "href": "http://brandish.waywire.com/api/user/show?id=6P2W6T2ZHBH590Y9&key="
+    }
+  ],
+  "content": {
+    "content": "PRRRR PRRRRR"
+  },
+  "author": {
+    "name": {
+      "content": "Jessie B"
+    },
+    "magnify:id": {
+      "content": "6P2W6T2ZHBH590Y9"
+    },
+    "uri": {
+      "content": "http://brandish.waywire.com/api/user/show?id=6P2W6T2ZHBH590Y9&key="
+    }
+  },
+  "media:thumbnail": {
+    "url": "https://s3.amazonaws.com/item.thumbnail/content/XBWSQW212GDCMMHM/regular.jpg"
+  },
+  "published": {
+    "content": "2013-04-03T19:15:27Z"
+  },
+  "magnify:externalid": {
+    "content": "JgzPi7GJo2g"
+  },
+  "media:content": {
+    "width": 300,
+    "medium": "video",
+    "url": "http://brandish.waywire.com/embed/content/XBWSQW212GDCMMHM",
+    "type": "text/html",
+    "duration": "78",
+    "height": 360
+  },
+  "category": [
+    {
+      "label": "Fake-Cat_Subcat",
+      "term": "Fake-Cat_Subcat"
+    },
+    {
+      "label": "country.usa",
+      "term": "country.usa"
+    },
+    {
+      "label": "brand.FakeBrand",
+      "term": "brand.FakeBrand"
+    },
+    {
+      "label": "better_home",
+      "term": "better_home"
+    },
+    {
+      "label": "language.english",
+      "term": "language.english"
+    }
+  ],
+  "magnify:id": {
+    "content": "XBWSQW212GDCMMHM"
+  },
+  "id": {
+    "content": "http://brandish.waywire.com/api/content/show?id=XBWSQW2SQWAAAA&key="
+  },
+  "title": {
+    "content": "FOO"
+  },
+  "media:geo_location": {
+    "country": null,
+    "city": null,
+    "longitude": null,
+    "postal_code": null,
+    "latitude": null,
+    "province": null,
+    "description": null
+  },
+  "updated": {
+    "content": "2016-04-15T13:21:00Z"
+  },
+  "media:html5": {
+    "width": 300,
+    "medium": "video",
+    "url": "https://player.waywire.com/?id=XBWSQW212SQUAAAAA",
+    "type": "text/html",
+    "duration": "78",
+    "height": 360
+  }
+}
+ ]
+}

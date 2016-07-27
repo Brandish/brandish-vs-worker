@@ -1,0 +1,29 @@
+# db:
+#     image: postgres:9.4
+#     environment:
+#         - POSTGRES_PASSWORD=postgres
+#         - POSTGRES_USER=postgres
+#     ports:
+#         - "5432:5432"
+worker:
+    build: .
+    command: python main.py
+    volumes:
+        - .:/src
+        - ./sql:/opt/flyway-3.2.1/sql
+    # links:
+    #     - db
+    environment:
+        WAYWIRE_URL: http://someurl.com/api/content/browse/
+        WAYWIRE_FIND_URL: http://someurl.com/api/content/show/
+        WAYWIRE_API_KEY: S0M3L3G1TK3Y
+        GOOGLE_DEV_KEY: S0M3L3G1TK3Y
+        WAIT_TIME: 5
+        ENVIRONMENT: prod
+        AWS_SECRET_ACCESS_KEY: S0M3L3G1TK3Y
+        AWS_ACCESS_KEY_ID: S0M3L3G1TK3Y
+        AWS_DEFAULT_REGION: us-legit-2
+        AWS_SQS_URL: https://sqs.us-west-2.amazonaws.com/S0M3L3G1TK3Y/legit
+        AWS_SES_ARN: arn:aws:ses:us-east-1:S0M3L3G1TK3Y:identity/legit
+        SUPPORT_EMAIL: johndoe@email.com
+        EXTRA_EMAILS: janedoe@email.com

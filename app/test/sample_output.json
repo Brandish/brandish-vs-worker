@@ -1,0 +1,1253 @@
+{
+   "rights": {
+      "content": "Copyright 2015, Waywire Networks"
+   },
+   "xmlns": "http://www.w3.org/2005/Atom",
+   "entry": [
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=X894YQ08JZ89HS2Q&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Coppley-Spring-2010-Video"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "Coppley Apparel Group is a marketer of men's suits, coats, trousers, shirts and neckwear with a Canadian manufacturing base that excels in product and services benefits selling principally in North America and mainly through independent specialty stores."
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/GSN8SF360C6SY04P.jpg"
+         },
+         "published": {
+            "content": "2010-02-10T21:31:24Z"
+         },
+         "magnify:externalid": {
+            "content": "FPoxNAxLIY8"
+         },
+         "category": [
+            {
+               "label": "Men's_Apparels",
+               "term": "Men's_Apparels"
+            },
+            {
+               "label": "Men's_Apparel",
+               "term": "Men's_Apparel"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Men's_Apparel-Formal",
+               "term": "Men's_Apparel-Formal"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "People",
+               "term": "People"
+            },
+            {
+               "label": "brand.Canali",
+               "term": "brand.Canali"
+            },
+            {   "label": "adult.adult",
+                "term": "adult.adult"
+            },
+            {
+                "label": "brandish.select",
+                "term": "brandish.select"
+            },
+            {
+                "label": "brandish.feed",
+                "term": "brandish.feed"
+            }
+         ],
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/X894YQ08JZ89HS2Q",
+            "duration": "377",
+            "type": "text/html",
+            "height": 360
+         },
+         "magnify:id": {
+            "content": "X894YQ08JZ89HS2Q"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=X894YQ08JZ89HS2Q&key="
+         },
+         "title": {
+            "content": "Coppley Spring 2010 Video"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-11-06T08:08:47Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=X894YQ08JZ89HS2Q&hostname=brandish.waywire.com&permalink=Coppley-Spring-2010-Video",
+            "duration": "377",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=VWMCXP2GLDYMNF8M&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Pankhurst-Barbers-Chairs-Crafte"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "Bentley Motors applies its supreme craftsmanship in leather and trim to create stunning Barbers Chairs for Pankhurst Barbers Salon, London's most stylish men's grooming salon. Read more here: http://bit.ly/17LL6jP"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/M1NV6P05PGZQ0L5Y.jpg"
+         },
+         "published": {
+            "content": "2013-07-10T08:21:06Z"
+         },
+         "magnify:externalid": {
+            "content": "g__PP3dAznQ"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/VWMCXP2GLDYMNF8M",
+            "duration": "100",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "Bentley",
+               "term": "Bentley"
+            },
+            {
+               "label": "London",
+               "term": "London"
+            },
+            {
+               "label": "barber",
+               "term": "barber"
+            },
+            {
+               "label": "bespoke",
+               "term": "bespoke"
+            },
+            {
+               "label": "style",
+               "term": "style"
+            },
+            {
+               "label": "men",
+               "term": "men"
+            },
+            {
+               "label": "Motors",
+               "term": "Motors"
+            },
+            {
+               "label": "men's",
+               "term": "men's"
+            },
+            {
+               "label": "hair",
+               "term": "hair"
+            },
+            {
+               "label": "leather",
+               "term": "leather"
+            },
+            {
+               "label": "barbers",
+               "term": "barbers"
+            },
+            {
+               "label": "Entertainment",
+               "term": "Entertainment"
+            },
+            {
+               "label": "Pankhurst",
+               "term": "Pankhurst"
+            },
+            {
+               "label": "grooming",
+               "term": "grooming"
+            },
+            {
+               "label": "salon",
+               "term": "salon"
+            }
+         ],
+         "magnify:id": {
+            "content": "VWMCXP2GLDYMNF8M"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=VWMCXP2GLDYMNF8M&key="
+         },
+         "title": {
+            "content": "Pankhurst Barbers Chairs - Crafted By Bentley"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:51Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=VWMCXP2GLDYMNF8M&hostname=brandish.waywire.com&permalink=Pankhurst-Barbers-Chairs-Crafte",
+            "duration": "100",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=ZW565V37LSXDTHFY&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/The-Continental-GT3-Race-car-is"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "The Bentley Continental GT3 Race car will go 'up the hill' at Goodwood Festival of Speed 2013.  Read more about the Continental GT3 here: http://www.BentleyMotorsport.com"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/HQRLWT1XD5DQDRYN.jpg"
+         },
+         "published": {
+            "content": "2013-07-10T15:08:54Z"
+         },
+         "magnify:externalid": {
+            "content": "mtKqQg3GdWo"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/ZW565V37LSXDTHFY",
+            "duration": "67",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Autos",
+               "term": "Autos"
+            }
+         ],
+         "magnify:id": {
+            "content": "ZW565V37LSXDTHFY"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=ZW565V37LSXDTHFY&key="
+         },
+         "title": {
+            "content": "The Continental GT3 Race car is coming..."
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=ZW565V37LSXDTHFY&hostname=brandish.waywire.com&permalink=The-Continental-GT3-Race-car-is",
+            "duration": "67",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=Y18NZB3D8F8MDHHM&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Bentley-debuts-its-new-Continen"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "The Bentley Continental GT3 marks Bentley's return to Motorsport. At the 2013 Goodwood Festival of Speed, the race car made its official running debut on the famous Hillclimb. \n\nPiloted by Bentley Boy and Le Mans 2003 champion Guy Smith, the Continental GT3 is a racing machine exploring the extreme potential of Bentley's iconic Grand Tourer, the Continental GT.\n\nRead more about the Continental GT3 here: http://www.BentleyMotorsport.com"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/LLPZYJ2WJ914C2K5.jpg"
+         },
+         "published": {
+            "content": "2013-07-13T13:25:48Z"
+         },
+         "magnify:externalid": {
+            "content": "pVB31A3zgJs"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/Y18NZB3D8F8MDHHM",
+            "duration": "119",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles & Test-Luxury",
+               "term": "Automobiles & Test-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Carsdotcom",
+               "term": "brand.Carsdotcom"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Autos",
+               "term": "Autos"
+            }
+         ],
+         "magnify:id": {
+            "content": "Y18NZB3D8F8MDHHM"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=Y18NZB3D8F8MDHHM&key="
+         },
+         "title": {
+            "content": "Bentley debuts its new Continental GT3 race car"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=Y18NZB3D8F8MDHHM&hostname=brandish.waywire.com&permalink=Bentley-debuts-its-new-Continen",
+            "duration": "119",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=81K50725V774874S&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Bentley-attends-Buckingham-Pala"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "As an official Royal Warrant Holder, Bentley exhibited at the prestigious Coronation Festival, allowing people the rare opportunity to see some of the most recognisable and elegant cars in the world.\n\nBentley's presence included Her Majesty The Queen's State Limousine. This unique Bentley, presented to The Queen in 2002 to mark the 50th anniversary of her accession to the throne, was the centrepiece of a collection of Bentleys on display in Buckingham Palace Gardens throughout the celebrations.\n\nAs well as presenting the State Limousine, Bentley's craftsmen and designers were offering live displays of some of the skills that provide every car that leaves the Crewe factory with a hand-built, bespoke feel. \n\nThe 'open air workshop' showed guests the mix of hand-to-eye coordination, skill and attention to detail needed to create Bentley's luxury car models. \n\nA final highlight from Bentley was the presence of the company's flagship model; the Mulsanne. Blending refinement and performance with luxury features and technology, the Mulsanne offers the greatest of grand touring experiences."
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/V2JFMG2RRZDYMZ9K.jpg"
+         },
+         "published": {
+            "content": "2013-07-14T13:06:17Z"
+         },
+         "magnify:externalid": {
+            "content": "u9Jnk-nzETk"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/81K50725V774874S",
+            "duration": "81",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Autos",
+               "term": "Autos"
+            }
+         ],
+         "magnify:id": {
+            "content": "81K50725V774874S"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=81K50725V774874S&key="
+         },
+         "title": {
+            "content": "Bentley attends Buckingham Palace Gardens for the Coronation Festival"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=81K50725V774874S&hostname=brandish.waywire.com&permalink=Bentley-attends-Buckingham-Pala",
+            "duration": "81",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=Y553LX211JNTPJR9&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Bentley-Motors-at-Coronation-Fe"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "As an official Royal Warrant Holder, Bentley exhibited at the prestigious Coronation Festival in the grounds of Buckingham Palace, allowing people the rare opportunity to see some of the most recognisable and elegant cars in the world. \n\nThis video captures our overview of the 4 day celebration both on and off the Bentley Motors stand.  \n\nFor more upcoming Bentley Events see http://Events.BentleyMotors.com"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/3QDVXR22F35ZN6WV.jpg"
+         },
+         "published": {
+            "content": "2013-07-16T12:45:15Z"
+         },
+         "magnify:externalid": {
+            "content": "X7QkXF5dTpM"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/Y553LX211JNTPJR9",
+            "duration": "209",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "Bentley",
+               "term": "Bentley"
+            },
+            {
+               "label": "Coronation",
+               "term": "Coronation"
+            },
+            {
+               "label": "Limousine",
+               "term": "Limousine"
+            },
+            {
+               "label": "Royal",
+               "term": "Royal"
+            },
+            {
+               "label": "Britain",
+               "term": "Britain"
+            },
+            {
+               "label": "Palace",
+               "term": "Palace"
+            },
+            {
+               "label": "cars",
+               "term": "cars"
+            },
+            {
+               "label": "Festival",
+               "term": "Festival"
+            },
+            {
+               "label": "Mulsanne",
+               "term": "Mulsanne"
+            },
+            {
+               "label": "craftsmanship",
+               "term": "craftsmanship"
+            },
+            {
+               "label": "England",
+               "term": "England"
+            },
+            {
+               "label": "celebration",
+               "term": "celebration"
+            },
+            {
+               "label": "Entertainment",
+               "term": "Entertainment"
+            },
+            {
+               "label": "Motors",
+               "term": "Motors"
+            },
+            {
+               "label": "State",
+               "term": "State"
+            }
+         ],
+         "magnify:id": {
+            "content": "Y553LX211JNTPJR9"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=Y553LX211JNTPJR9&key="
+         },
+         "title": {
+            "content": "Bentley Motors at Coronation Festival 2013 - Roundup Film"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=Y553LX211JNTPJR9&hostname=brandish.waywire.com&permalink=Bentley-Motors-at-Coronation-Fe",
+            "duration": "209",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=VPHML53B4XVSFMNK&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Pankhurst-Barbers-Chairs-A-Jour"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "Watch our bespoke Pankhurst Barbers Chairs being covered and trimmed by our highly skilled Bentley craftsmen and women. Bentley Motors' handcrafting fuses a rich history of skill and craft with the most modern technology to create unique and beautiful chairs for London's Pankhurst Barber Shop.  To read more click here: http://bit.ly/17LL6jP"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/SB28FY27XXY9ZDMN.jpg"
+         },
+         "published": {
+            "content": "2013-07-16T13:57:46Z"
+         },
+         "magnify:externalid": {
+            "content": "kzAxC2NkOv8"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/VPHML53B4XVSFMNK",
+            "duration": "81",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "Barber",
+               "term": "Barber"
+            },
+            {
+               "label": "Beauty",
+               "term": "Beauty"
+            },
+            {
+               "label": "chairs",
+               "term": "chairs"
+            },
+            {
+               "label": "hair",
+               "term": "hair"
+            },
+            {
+               "label": "fashion",
+               "term": "fashion"
+            },
+            {
+               "label": "handcrafting",
+               "term": "handcrafting"
+            },
+            {
+               "label": "handmade",
+               "term": "handmade"
+            },
+            {
+               "label": "Barbers",
+               "term": "Barbers"
+            },
+            {
+               "label": "style",
+               "term": "style"
+            },
+            {
+               "label": "Bentley",
+               "term": "Bentley"
+            },
+            {
+               "label": "salon",
+               "term": "salon"
+            },
+            {
+               "label": "men",
+               "term": "men"
+            },
+            {
+               "label": "bespoke",
+               "term": "bespoke"
+            },
+            {
+               "label": "Pankhurst",
+               "term": "Pankhurst"
+            },
+            {
+               "label": "Entertainment",
+               "term": "Entertainment"
+            }
+         ],
+         "magnify:id": {
+            "content": "VPHML53B4XVSFMNK"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=VPHML53B4XVSFMNK&key="
+         },
+         "title": {
+            "content": "Pankhurst Barbers Chairs - A Journey of Exquisite Craftsmanship"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=VPHML53B4XVSFMNK&hostname=brandish.waywire.com&permalink=Pankhurst-Barbers-Chairs-A-Jour",
+            "duration": "81",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=C21L8K3M52BTR8VF&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Bentley-Dynamic-Driving-with-Gu"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "Bentley Brand ambassador Derek Bell is joined by Bentley Le Mans winner Guy Smith and performance driver Jamie Morrow for an impressive performance driving display. To register for upcoming Bentley driving events contact your local Bentley dealer.\r\n\r\nhttp://www.bentleymotors.com/ownership/locate_a_dealer/"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/2VY51Y1X85GH1G1W.jpg"
+         },
+         "published": {
+            "content": "2013-07-24T12:47:15Z"
+         },
+         "magnify:externalid": {
+            "content": "JA9zV8mqLns"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/C21L8K3M52BTR8VF",
+            "duration": "155",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Autos",
+               "term": "Autos"
+            }
+         ],
+         "magnify:id": {
+            "content": "C21L8K3M52BTR8VF"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=C21L8K3M52BTR8VF&key="
+         },
+         "title": {
+            "content": "Bentley Dynamic Driving with Guy Smith, Jamie Morrow and Derek Bell"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=C21L8K3M52BTR8VF&hostname=brandish.waywire.com&permalink=Bentley-Dynamic-Driving-with-Gu",
+            "duration": "155",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=8VKPLJ1DNP8CQXV5&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/Bentley-Power-on-Ice-Performanc"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "In Northern Finland, close to the country's border with Russia and the edge of the Arctic Circle, lies a rarely visited collection of frozen lakes. There, once each year, the silence is shattered by the awesome sound of Bentley Continentals tearing across the lakes' surfaces at full throttle. This is Power on Ice.\nAt Power On Ice 2014, you'll learn how to get the optimum performance from a Continental in the toughest natural conditions, pushing these magnificent all-wheel drive vehicles to their limits.\n\nLearn more about Power On Ice 2014 and express your interest here: http://events.bentleymotors.com/power-on-ice.html"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/V3PG6M16W7QMHXF5.jpg"
+         },
+         "published": {
+            "content": "2013-08-06T13:45:33Z"
+         },
+         "magnify:externalid": {
+            "content": "U32h094I8IQ"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/8VKPLJ1DNP8CQXV5",
+            "duration": "122",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.usa",
+               "term": "country.usa"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "travel",
+               "term": "travel"
+            }
+         ],
+         "magnify:id": {
+            "content": "8VKPLJ1DNP8CQXV5"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=8VKPLJ1DNP8CQXV5&key="
+         },
+         "title": {
+            "content": "Bentley Power on Ice Performance Driving Programme 2014"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=8VKPLJ1DNP8CQXV5&hostname=brandish.waywire.com&permalink=Bentley-Power-on-Ice-Performanc",
+            "duration": "122",
+            "type": "text/html",
+            "height": 360
+         }
+      },
+      {
+         "link": [
+            {
+               "rel": "self",
+               "href": "http://brandish.waywire.com/api/content/show?id=H60P9933ZCVP14XK&key="
+            },
+            {
+               "rel": "alternate",
+               "href": "http://brandish.waywire.com/video/The-new-Bentley-Continental-G-2"
+            },
+            {
+               "rel": "author",
+               "href": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         ],
+         "content": {
+            "content": "From the glorious roar as it explodes into life to the rich purr emitted at rest by its charismatic 4.0 litre V8 engine, the Bentley Continental GT V8 S represents an experience all of its own.\n\nThis powerful new member of the Continental range takes Bentley's advanced V8 platform and pushes it even further. The result: marked improvements in performance alongside a sleeker, more sporting appearance.\n\nTo read more visit:  http://www.bentleymotors.com/models/new_continental_gt_v8_s/"
+         },
+         "author": {
+            "name": {
+               "content": "Sasha"
+            },
+            "magnify:id": {
+               "content": "SZWW1P16W7NWPBZT"
+            },
+            "uri": {
+               "content": "http://brandish.waywire.com/api/user/show?id=SZWW1P16W7NWPBZT&key="
+            }
+         },
+         "media:thumbnail": {
+            "url": "http://s3.amazonaws.com/magnifythumbs/PBHFRZ2SXYX2XVCJ.jpg"
+         },
+         "published": {
+            "content": "2013-09-03T13:14:49Z"
+         },
+         "magnify:externalid": {
+            "content": "pLdYKp3a5yI"
+         },
+         "media:content": {
+            "width": 300,
+            "medium": "video",
+            "url": "http://brandish.waywire.com/embed/content/H60P9933ZCVP14XK",
+            "duration": "151",
+            "type": "text/html",
+            "height": 360
+         },
+         "category": [
+            {
+               "label": "temp",
+               "term": "temp"
+            },
+            {
+               "label": "Automobiles-Luxury",
+               "term": "Automobiles-Luxury"
+            },
+            {
+               "label": "country.mex",
+               "term": "country.mex"
+            },
+            {
+               "label": "brand.Bentley",
+               "term": "brand.Bentley"
+            },
+            {
+               "label": "language.english",
+               "term": "language.english"
+            },
+            {
+               "label": "Autos",
+               "term": "Autos"
+            }
+         ],
+         "magnify:id": {
+            "content": "H60P9933ZCVP14XK"
+         },
+         "id": {
+            "content": "http://brandish.waywire.com/api/content/show?id=H60P9933ZCVP14XK&key="
+         },
+         "title": {
+            "content": "The new Bentley Continental GT V8 S"
+         },
+         "media:geo_location": {
+            "country": null,
+            "city": null,
+            "longitude": null,
+            "postal_code": null,
+            "latitude": null,
+            "province": null,
+            "description": null
+         },
+         "updated": {
+            "content": "2015-10-21T13:45:50Z"
+         },
+         "media:html5": {
+            "width": 300,
+            "medium": "video",
+            "url": "//waywire.com/apiv2/player?id=H60P9933ZCVP14XK&hostname=brandish.waywire.com&permalink=The-new-Bentley-Continental-G-2",
+            "duration": "151",
+            "type": "text/html",
+            "height": 360
+         }
+      }
+   ],
+   "opensearch:Query": null,
+   "author": null,
+   "generator": {
+      "version": "beta",
+      "content": "Magnify.net API",
+      "uri": "http://www.magnify.net/api/"
+   },
+   "updated": {
+      "content": "2015-11-17T21:53:14Z"
+   },
+   "xmlns:magnify": "http://www.magnify.net/developers/api/ns",
+   "id": {
+      "content": "http://brandish.waywire.com/api/content/browse?per_page=10&page=1&sort=recent"
+   },
+   "xmlns:opensearch": "http://a9.com/-/spec/opensearch/1.1/",
+   "link": [
+      {
+         "rel": "self",
+         "href": "http://brandish.waywire.com/api/content/browse?per_page=10&page=1&sort=recent",
+         "type": "application/atom+xml"
+      },
+      {
+         "rel": "next",
+         "href": "http://brandish.waywire.com/api/content/browse?per_page=10&page=2&sort=recent&start=11",
+         "type": "application/atom+xml"
+      }
+   ],
+   "media:thumbnail": null,
+   "opensearch:startIndex": {
+      "content": 1
+   },
+   "published": null,
+   "opensearch:itemsPerPage": {
+      "content": 10
+   },
+   "opensearch:totalResults": {
+      "content": 10
+    },
+   "title": {
+      "content": "Search for Videos at Brandish"
+   },
+   "xmlns:media": "http://search.yahoo.com/mrss/"
+}
