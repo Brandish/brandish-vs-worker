@@ -1,6 +1,6 @@
 SELECT_ITEMS = """
-SELECT id, waywire_id, url, source 
-FROM   item_item;
+SELECT    id, waywire_id, url, source 
+FROM      item_item;
 """
 
 

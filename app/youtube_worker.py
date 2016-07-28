@@ -26,6 +26,7 @@ class YouTubeWorker(DBMixin, object):
     waywire_maps_br = {}
     youtube_maps_ww = {}
     nonexistent_ids = {}
+    external_ids_to_test = {}
 
     """
     Fetches Statistical information for all 
@@ -35,6 +36,7 @@ class YouTubeWorker(DBMixin, object):
         self.waywire_maps_br = {}
         self.youtube_maps_ww = {}
         self.nonexistent_ids = {}
+        self.external_ids_to_test = {}
 
     def run(self):
         # try:
@@ -128,10 +130,10 @@ class YouTubeWorker(DBMixin, object):
             # We need to iterate the youtube videos
             # to setup the new data structures for
             # Item batch update
-            # external_ids_to_tests holds the IDs
+            # external_ids_to_test holds the IDs
             # for the items that we retrieved from YT
-            external_ids_to_test = []
 
+            count = 0
             for youtube_video in youtube_videos:
                 external_id = youtube_video['id']
                 view_count = youtube_video['statistics']['viewCount']
@@ -141,11 +143,12 @@ class YouTubeWorker(DBMixin, object):
                     "view_count": int(view_count)
                 }
                 items_to_update.append(item_to_update)
-                external_ids_to_test.append(external_id)
+                self.external_ids_to_test[external_id] = True
+                count += 1
 
-            if len(external_ids_to_test) != 50:
+            if count != YOUTUBE_PAGE_SIZE:
                 for ext_id in self.youtube_maps_ww.keys():
-                    if ext_id not in external_ids_to_test:
+                    if ext_id not in self.external_ids_to_test:
                         self.nonexistent_ids[ext_id] = self.youtube_maps_ww[ext_id]
 
             # DB construction that allows iteration over a 
