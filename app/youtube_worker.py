@@ -11,6 +11,7 @@ from .mail import SESClient
 import logging
 import time
 import json
+import numbers
 
 URL = WAYWIRE_FIND_URL
 DEVELOPER_KEY = GOOGLE_DEV_KEY
@@ -65,23 +66,26 @@ class YouTubeWorker(DBMixin, object):
                         waywire_json = row[3] # source field
                         external_id = waywire_json['magnify:externalid']['content']
 
-                        # Data Structures for convenience
-                        # ID-mapping
-                        self.waywire_maps_br[waywire_video_id] = row[0]
-                        self.youtube_maps_ww[external_id] = waywire_video_id
-                        # This external ID is going to disappear in V2.0
-                        youtube_ids.append(external_id)
+                        # Handling Vimeo ID format
+                        if not external_id.isdigit() :
+                            # Data Structures for convenience
+                            # ID-mapping
+                            self.waywire_maps_br[waywire_video_id] = row[0]
+                            self.youtube_maps_ww[external_id] = waywire_video_id
+                            # This external ID is going to disappear in V2.0
+                            youtube_ids.append(external_id)
 
-                        if len(rows) >= 50:
-                            # We use this to control the 50 
-                            # element buffer
-                            if current_page % YOUTUBE_PAGE_SIZE == 0:
-                                # We need this to make less calls to
-                                # Google APIs
-                                youtube_ids_str = ",".join(youtube_ids)
-                                youtube_ids = []
-                                self.fetch_and_update_items(youtube_ids_str)
-                            current_page += 1
+                            if len(rows) >= 50:
+                                # We use this to control the 50 
+                                # element buffer
+                                if current_page % YOUTUBE_PAGE_SIZE == 0:
+                                    # We need this to make less calls to
+                                    # Google APIs
+                                    youtube_ids_str = ",".join(youtube_ids)
+                                    youtube_ids = []
+                                    self.fetch_and_update_items(youtube_ids_str)
+                                current_page += 1
+                        
                     if len(rows) < 50:
                         youtube_ids_str = ",".join(youtube_ids)
                         youtube_ids = []
