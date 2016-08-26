@@ -144,7 +144,10 @@ class YouTubeWorker(DBMixin, object):
                 waywire_id = self.youtube_maps_ww[external_id]
                 item_to_update = {
                     "id": self.waywire_maps_br[waywire_id],
-                    "view_count": int(view_count)
+                    "view_count": int(view_count),
+                    "waywire_video_id": waywire_id,
+                    "external_video_id": external_id,
+                    "external_video_url": "https://www.youtube.com/watch?v=" + external_id
                 }
                 items_to_update.append(item_to_update)
                 self.external_ids_to_test[external_id] = True
