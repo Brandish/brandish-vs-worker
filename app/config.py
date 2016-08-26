@@ -25,7 +25,7 @@ assert DATABASE_URL
 WAIT_TIME = int(os.getenv('WAIT_TIME', '20000'))
 assert WAIT_TIME
 
-LOADER_WAIT_TIME = int(os.getenv('LOADER_WAIT_TIME', 600))
+LOADER_WAIT_TIME = int(os.getenv('LOADER_WAIT_TIME', 1800))
 assert LOADER_WAIT_TIME
 
 ENVIRONMENT = os.getenv('ENVIRONMENT', 'staging')

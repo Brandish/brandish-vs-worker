@@ -12,8 +12,8 @@ def compare():
     if ENVIRONMENT != 'testing':
         while True:
             y.run()  # Fetches statistical information from YouTube
-            print("Going to sleep for: {} seconds.".format(LOADER_WAIT_TIME*2))
-            time.sleep(LOADER_WAIT_TIME*2)
+            print("Going to sleep for: {} seconds.".format(LOADER_WAIT_TIME))
+            time.sleep(LOADER_WAIT_TIME)
     else:
         while True:
             print("OK.")
