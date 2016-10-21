@@ -15,11 +15,7 @@ assert WAYWIRE_API_KEY
 GOOGLE_DEV_KEY = os.getenv('GOOGLE_DEV_KEY')
 assert GOOGLE_DEV_KEY
 
-# DATABASE_URL = os.getenv(
-   # 'DATABASE_URL',
-   # 'postgres://postgres:postgres@{0}:5432/postgres'.format(
-   #     os.getenv('DB_PORT_5432_TCP_ADDR', None)))
-DATABASE_URL = os.getenv('DATABASE_URL', 'postgres://brandish:br4ndish2016@brandish-db-production.ctgrfahcuiik.us-west-2.rds.amazonaws.com:5432/brandish')
+DATABASE_URL = os.getenv('DATABASE_URL', '')
 assert DATABASE_URL
 
 WAIT_TIME = int(os.getenv('WAIT_TIME', '20000'))
@@ -36,16 +32,16 @@ assert SUPPORT_EMAIL
 
 EXTRA_EMAILS = os.getenv('EXTRA_EMAILS', '')
 
-AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY', 'MsLjlH3x1P7n0jnYQremQBbqAOm7anyz8DdngQMZ')
+AWS_SECRET_ACCESS_KEY = os.getenv('AWS_SECRET_ACCESS_KEY', '')
 assert AWS_SECRET_ACCESS_KEY
 
-AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID', 'AKIAJDEF3AKHSIMO7G2Q')
+AWS_ACCESS_KEY_ID = os.getenv('AWS_ACCESS_KEY_ID', '')
 assert AWS_ACCESS_KEY_ID
 
-AWS_DEFAULT_REGION = os.getenv('AWS_DEFAULT_REGION', 'us-west-2')
+AWS_DEFAULT_REGION = os.getenv('AWS_DEFAULT_REGION', '')
 assert AWS_DEFAULT_REGION
 
-AWS_SQS_URL = os.getenv('AWS_SQS_URL', 'https://sqs.us-west-2.amazonaws.com/717749257474/brandish-test')
+AWS_SQS_URL = os.getenv('AWS_SQS_URL', '')
 assert AWS_SQS_URL
 
 AWS_SES_ARN = os.getenv('AWS_SES_ARN', '')
