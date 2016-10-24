@@ -3,8 +3,8 @@ from .db import database_connection
 from .queries import (SELECT_ITEMS, BULK_UPDATE_ITEM_VIEW_COUNT)
 from .db import DBMixin
 from .config import WAYWIRE_API_KEY, WAYWIRE_FIND_URL, GOOGLE_DEV_KEY
-from apiclient.discovery import build
-from apiclient.errors import HttpError
+from googleapiclient.discovery import build
+from googleapiclient.errors import HttpError
 from oauth2client.tools import argparser
 from .utils import write_csv, clear_tmp, build_message, gen_peek
 from .mail import SESClient
