@@ -1,6 +1,6 @@
 # brandish-vs-worker
 
-The video statistics worker for the **Brandish Platform.** It's main purpose is to synchronously fetch information from YouTube associated with the items in the DB through their `external_id` parameters. 
+The video statistics worker for the **Brandish Platform.** It's main purpose is to synchronously fetch information from YouTube associated with the items in the DB through their `external_id` parameters. This cycles are run each `LOADER_WAIT_TIME` seconds and they can be setup with through environment variables. The default value is 1800 seconds.
 
 ## Tools used
 
