@@ -105,13 +105,13 @@ class YouTubeWorker(DBMixin, object):
         
 
     def youtube_search(self, ids=''):
-        # print("Fetching YouTube Information")
+        # Fetching YouTube Information
         youtube = build(
             YOUTUBE_API_SERVICE_NAME, 
             YOUTUBE_API_VERSION,
             developerKey=DEVELOPER_KEY)
 
-        # Call the search.list method to retrieve results matching the specified
+        # Call the 'search.list' method to retrieve results matching the specified
         # query term.
         search_response = youtube.videos().list(
             id=ids,
@@ -127,7 +127,8 @@ class YouTubeWorker(DBMixin, object):
     def fetch_and_update_items(self, ids=''):
         try:
             # API Call to YouTube
-            # THREAD-BLOCKING: REMOVE ASAP
+            # THREAD-BLOCKING: Transform to ThreadPoolExecutor 
+            # arquitecture A.S.A.P.
             youtube_videos = self.youtube_search(ids=ids)
 
             items_to_update = []
@@ -153,6 +154,7 @@ class YouTubeWorker(DBMixin, object):
                 self.external_ids_to_test[external_id] = True
                 count += 1
 
+            # Handles the case when we have less than 50 videos in the DB
             if count != YOUTUBE_PAGE_SIZE:
                 for ext_id in self.youtube_maps_ww.keys():
                     if ext_id not in self.external_ids_to_test:
